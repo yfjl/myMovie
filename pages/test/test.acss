@@ -1,0 +1,22 @@
+.main{
+    position: fixed;
+    top: 20rpx;
+    bottom: 20rpx;
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid red;
+    border-radius: 20rpx;
+    
+
+}
+
+.main .txt{
+    font-size: 30rpx;
+    color: green;
+}
+
+.main .btn{
+    position: relative;
+    top: 100rpx;
+    margin-top: 100rpx;
+}

@@ -1,0 +1,7 @@
+<view class="main">
+    <view>
+          <text class="txt">数据：{{testData}}</text>
+        <button class="btn" type="primary" onTap="bindMove"> {{btn}} </button>
+        <button class="btn" type="primary" onTap="go"> 进入主页 </button>
+    </view>
+</view>
